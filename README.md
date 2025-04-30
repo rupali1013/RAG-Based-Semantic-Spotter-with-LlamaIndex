@@ -1,4 +1,3 @@
-
 # 🧠 Semantic Spotter: An LLM-Powered RAG System for Insurance
 
 > A cutting-edge Retrieval Augmented Generation (RAG) project designed to accurately answer queries from complex insurance policy documents using advanced Large Language Model techniques. Build a smart system that can search through documents and give clear, helpful answers to questions. It uses LlamaIndex to power the search. It combines two powerful tools:
